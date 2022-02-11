@@ -13,9 +13,7 @@ A list of FOSS Privacy applications and services
 
 * Ublock origin 
 * Privacy badger
-* Startpage privacy protection
 * Clearurls
-* Https everywhere
 * Universal bypass
 
 ## Search engine
@@ -32,7 +30,6 @@ A list of FOSS Privacy applications and services
 ## Email provider
 
 * Proton mail
-* Startpage mail
 
 ## Password manager
 
