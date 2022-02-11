@@ -3,8 +3,7 @@ A list of FOSS Privacy applications and services
 
 ## Browsers
 
-* Brave
-* Chromium/degoogled
+* Chromium
 * Firefox
 * Librewolf
 * tor
